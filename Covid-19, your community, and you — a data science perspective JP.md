@@ -1,5 +1,7 @@
 # COVID-19と社会とあなた — データサイエンスの視点から
 
+*この投稿は["Covid-19, your community, and you — a data science perspective"](https://www.fast.ai/2020/03/09/coronavirus/)を日本語に翻訳したものです。レヴュワー及び[Machine Learning Tokyo](https://mltokyo.ai/)のご協力に感謝します。*
+
 著：*ジェレミー・ハワード* & *レイチェル・トーマス*、2020年3月9日<br>
 原文：[https://www.fast.ai/2020/03/09/coronavirus/](https://www.fast.ai/2020/03/09/coronavirus/)<br>
 日本語訳（2020年3月14日時点の原文に基づく）：神沢 雄大 [@yutakanzawa](https://twitter.com/yutakanzawa)<br>
